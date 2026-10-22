@@ -265,3 +265,7 @@ If you add or change the environment variable after deployment, redeploy the fro
 - The backend currently permits cross-origin requests with CORS for this student prototype. For a production service with private data, restrict CORS to your actual frontend domain.
 - Free hosting policies and limits can change. Check each provider's current plan details before relying on it for a demo.
 - This is a prototype with sample data and rule-based scoring—not live travel information, actual bookings, or a fully autonomous AI agent.
+
+### live demo
+ Frontend: https://triprescue-ai.onrender.com
+ Backend: https://triprescue-ai.onrender.com
